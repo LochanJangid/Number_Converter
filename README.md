@@ -6,7 +6,7 @@ A simple C program that converts numbers between:
 - Octal
 
 ## Basic Commands 
-Basic commands are given in programe
+Basic commands are given in programme
 
 ## Features
 - Menu-driven input
